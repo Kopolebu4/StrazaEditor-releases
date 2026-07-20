@@ -1,6 +1,6 @@
 # 💎 StrazaEditor — Студия для создания стразовых схем и трафаретов
 
-![Version](https://img.shields.io/badge/версия-0.8.2-blueviolet)
+![Version](https://img.shields.io/badge/версия-0.9.0-blueviolet)
 ![Platform](https://img.shields.io/badge/платформа-Windows-0078D6)
 ![Status](https://img.shields.io/badge/статус-бесплатно__в__разработке-success)
 
@@ -25,7 +25,7 @@
 ## 🚀 Установка и запуск
 
 1. Перейдите в раздел [Releases](../../releases) этого репозитория.
-2. Скачайте последнюю версию архива или установщика (`StrazaEditor_v0.8.2.exe`).
+2. Скачайте последнюю версию архива или установщика (`StrazaEditor_v0.9.0.exe`).
 3. Запустите приложение и создайте свой первый проект!
 
 <!-- Сюда вставляем скриншот экрана приветствия -->
